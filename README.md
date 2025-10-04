@@ -21,16 +21,26 @@
 ### **Frontend Development**
 - **React Native** - Cross-platform mobile applications
 - **React.js** - Modern web applications with hooks and context
+- **Next.js** - Full-stack React applications with App Router
 - **TypeScript** - Type-safe development with advanced patterns
-- **Next.js** - Full-stack React applications
+- **Tailwind CSS** - Utility-first styling with custom design systems
 - **Expo** - Rapid mobile development and deployment
 
 ### **Backend & Infrastructure**
 - **Node.js** - Server-side JavaScript development
+- **Fastify** - High-performance Node.js framework
 - **Supabase** - Backend-as-a-Service with PostgreSQL
+- **Prisma ORM** - Type-safe database access and migrations
 - **Serverless Functions** - Edge computing and API development
 - **RESTful APIs** - Clean, scalable API design
-- **Database Design** - PostgreSQL, MongoDB, and data modeling
+- **Database Design** - PostgreSQL, MongoDB, Redis, and data modeling
+
+### **Blockchain & Web3**
+- **Solana** - High-performance blockchain development
+- **Rust** - Smart contract development and system programming
+- **Web3 Integration** - Multi-wallet support and blockchain interactions
+- **Smart Contracts** - Decentralized application development
+- **Cryptocurrency APIs** - Exchange integration and trading systems
 
 ### **AI & Machine Learning**
 - **AI Integration** - Large Language Model (LLM) integration
@@ -38,11 +48,13 @@
 - **Text-to-Speech** - Voice synthesis and audio processing
 - **Natural Language Processing** - Sentiment analysis and language understanding
 - **AI Service Architecture** - Scalable AI-powered applications
+- **Machine Learning** - Trading algorithms and predictive analytics
 
 ### **DevOps & Deployment**
+- **Docker** - Containerization and deployment
+- **Kubernetes** - Container orchestration and scaling
 - **EAS Build/Submit** - Mobile app deployment pipelines
 - **GitHub Actions** - CI/CD automation
-- **Docker** - Containerization and deployment
 - **Cloud Services** - AWS, Vercel, and cloud-native development
 - **Version Control** - Git workflows and collaboration
 
@@ -50,15 +62,29 @@
 
 ## 🎯 **Current Focus**
 
-- **Mobile AI Applications** - Building intelligent, user-centric mobile experiences
-- **Mental Wellness Tech** - Creating AI-powered therapeutic and support tools
-- **Cross-Platform Development** - Unified codebases for iOS and Android
-- **AI Service Integration** - Sophisticated AI model integration and optimization
-- **Enterprise Architecture** - Scalable, maintainable, and secure applications
+- **AI-Powered Applications** - Building intelligent, user-centric experiences across platforms
+- **Web3 & Blockchain** - Developing decentralized applications and trading systems
+- **Enterprise AI Solutions** - Creating scalable AI service platforms and infrastructure
+- **Cross-Platform Development** - Unified codebases for mobile, web, and desktop
+- **High-Performance Systems** - Optimizing for speed, scalability, and reliability
+- **Gaming & Interactive Platforms** - Next-generation gaming and entertainment systems
 
 ---
 
 ## 📱 **Featured Showcase Projects**
+
+### **[F3 AI Labs Showcase](https://github.com/Fawl3r/F3-AI-Labs-Showcase)**
+*Enterprise AI Development Platform*
+
+- **Advanced AI Infrastructure** - Comprehensive AI model integration and orchestration
+- **Enterprise Architecture** - Scalable, production-ready AI service platform
+- **Multi-Model Support** - Integration with various AI models and services
+- **API Gateway** - Sophisticated routing and management of AI endpoints
+- **Performance Optimization** - High-throughput AI processing with caching
+
+**Technologies:** Node.js, TypeScript, AI Services, PostgreSQL, Docker, Kubernetes
+
+---
 
 ### **[ZenThink AI Showcase](https://github.com/Fawl3r/ZenThink-AI-Showcase)**
 *Advanced React Native AI Application*
@@ -70,6 +96,45 @@
 - **Performance Optimization** - Memoization, lazy loading, and efficient rendering
 
 **Technologies:** React Native, TypeScript, Zustand, AI Services, Supabase
+
+---
+
+### **[Pump Pill Arena Showcase](https://github.com/Fawl3r/Pump-Pill-Arena-Showcase)**
+*Gamified Trading Rewards Platform*
+
+- **Full-Stack Web3 Application** - Complete Solana blockchain integration
+- **Gamified Trading Experience** - Competitive trading with real SOL rewards
+- **Advanced Frontend** - Next.js 14 with TypeScript and Tailwind CSS
+- **High-Performance Backend** - Fastify with PostgreSQL and Prisma ORM
+- **Smart Contract Development** - Rust-based Solana programs
+
+**Technologies:** Next.js, TypeScript, Rust, Solana, PostgreSQL, Fastify, Prisma
+
+---
+
+### **[F3 Crypto AI Trading Bot Showcase](https://github.com/Fawl3r/F3-Crypto-AI-Trading-Bot-Showcase)**
+*Intelligent Cryptocurrency Trading System*
+
+- **AI-Powered Trading** - Machine learning algorithms for market analysis
+- **Multi-Exchange Support** - Integration with major cryptocurrency exchanges
+- **Risk Management** - Advanced portfolio management and risk controls
+- **Real-Time Processing** - High-frequency trading with low latency
+- **Backtesting Engine** - Comprehensive strategy testing and optimization
+
+**Technologies:** Python, AI/ML, WebSocket APIs, Redis, PostgreSQL, Docker
+
+---
+
+### **[Gods Of Gaming Showcase](https://github.com/Fawl3r/Gods-Of-Gaming-Showcase)**
+*Next-Generation Gaming Platform*
+
+- **Modern Gaming Infrastructure** - Advanced game development and hosting platform
+- **Real-Time Multiplayer** - WebSocket-based multiplayer gaming system
+- **Game Engine Integration** - Support for multiple game engines and frameworks
+- **User Management** - Comprehensive player profiles and progression systems
+- **Performance Optimization** - Low-latency gaming with global CDN
+
+**Technologies:** React, Node.js, WebSocket, Game Engines, Redis, MongoDB
 
 ---
 
