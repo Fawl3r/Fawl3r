@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fawl3r
+# 👋 Hi, I'm Fawler
 
 ## 🚀 Full-Stack Developer & AI Engineer
 
