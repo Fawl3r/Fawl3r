@@ -161,9 +161,9 @@
 
 ## 🤝 **Let's Connect**
 
-- **Email:** [Your Professional Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Portfolio Website]
+- **Email:** [Fawl3r85@gmail.com]
+- **LinkedIn:** [[Fawl3r](https://www.linkedin.com/in/johnny-fawler-904a75326/)]
+- **Portfolio:** [[F3 AI Labs](https://www.f3ai.dev/)]
 - **Resume:** Available upon request
 
 **Open to:** Full-time opportunities, contract work, and exciting collaborations
